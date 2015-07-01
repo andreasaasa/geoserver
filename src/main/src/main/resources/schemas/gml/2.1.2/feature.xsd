@@ -9,7 +9,7 @@
   <!-- include constructs from the GML Geometry schema -->
   <include schemaLocation="geometry.xsd"/>
   <!-- bring in the XLink namespace -->
- <import namespace="http://www.w3.org/1999/xlink" schemaLocation="xlinks.xsd"/>
+ <import namespace="http://www.w3.org/1999/xlink" schemaLocation="../../xlink/1.0.0/xlinks.xsd"/>
 
   
   <!-- ==============================================================
